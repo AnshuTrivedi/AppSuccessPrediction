@@ -4,5 +4,6 @@
 **Data details**:
    * Data accessed from [Kaggle](https://www.kaggle.com/lava18/google-play-store-apps)  
    * Web scraped data of 10k Play Store apps for analysing the Android market.  
-   * Data download size is 2MB.  
+   * Data download size is 2MB. 
+***
 **Project Details:**
