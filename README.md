@@ -6,7 +6,7 @@
    * Web scraped data of 10k Play Store apps for analysing the Android market.  
    * Data download size is 2MB. 
 ***
-**Project Outline:**
+##Project Outline:   
    **1.Data Preparation=Data Cleaning + feature engineering**         
    **2.Data Collection:**       
    **3.EDA:**        
