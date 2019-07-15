@@ -7,26 +7,10 @@
    * Data download size is 2MB. 
 ***
 ## Project Outline:   
-   **1.Data Preparation=Data Cleaning + feature engineering**
-   * Basics (select, filter, removal of duplicates, …)              
-   * Sampling (balanced, stratified, ...)               
-   * Data Partitioning (create training + validation + test data set, ...)               
-   * Transformations (normalisation, standardisation, scaling, pivoting, ...)              
-   * Binning (count-based, handling of missing values as its own group, …)               
-   * Data Replacement (cutting, splitting, merging, ...)              
-   * Weighting and Selection (attribute weighting, automatic optimization, ...)               
-   * Attribute Generation (ID generation, ...)               
-   * Imputation (replacement of missing observations by using statistical algorithms)
-   Feature Engineering selects the right attributes to analyze. You use domain knowledge of the data to select or create attributes that      make machine learning algorithms work. Feature Engineering process includes:
-
-   * Brainstorming or testing of features   
-   * Feature selection   
-   * Validation of how the features work with your model   
-   * Improvement of features if needed   
-   * Return to brainstorming / creation of more features until the work is done   
-   **2.Data Collection:**       
-   **3.EDA:**        
-   **4.Model Building:**        
-   **5.Model validation:**       
-   **6.Model Execution:**      
-   **7.Model Deployment:**      
+   **1.Data Preparation=Data Cleaning + feature engineering**    
+   **2.Data Collection:**     
+   **3.EDA:**      
+   **4.Model Building:**     
+   **5.Model validation:**          
+   **6.Model Execution:**         
+   **7.Model Deployment:**         
