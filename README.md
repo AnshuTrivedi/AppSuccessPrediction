@@ -7,10 +7,10 @@
    * Data download size is 2MB. 
 ***
 **Project Outline:**
-  1.Data Preparation=Data Cleaning + feature engineering   
-  2.Data Collection   
-  3.EDA   
-  4.Model Building   
-  5.Model validation  
-  6.Model Execution   
-  7.Model Deployment   
+   **1.Data Preparation=Data Cleaning + feature engineering**         
+   **2.Data Collection:**       
+   **3.EDA:**        
+   **4.Model Building:**        
+   **5.Model validation:**       
+   **6.Model Execution:**      
+   **7.Model Deployment:**      
