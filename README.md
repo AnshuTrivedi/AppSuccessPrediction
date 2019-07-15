@@ -6,8 +6,17 @@
    * Web scraped data of 10k Play Store apps for analysing the Android market.  
    * Data download size is 2MB. 
 ***
-##Project Outline:   
-   **1.Data Preparation=Data Cleaning + feature engineering**         
+## Project Outline:   
+   **1.Data Preparation=Data Cleaning + feature engineering** 
+       * Basics (select, filter, removal of duplicates, …)
+       * Sampling (balanced, stratified, ...)
+       * Data Partitioning (create training + validation + test data set, ...)
+       * Transformations (normalisation, standardisation, scaling, pivoting, ...)
+       * Binning (count-based, handling of missing values as its own group, …)
+       * Data Replacement (cutting, splitting, merging, ...)
+       * Weighting and Selection (attribute weighting, automatic optimization, ...)
+       * Attribute Generation (ID generation, ...)
+       * Imputation (replacement of missing observations by using statistical algorithms)
    **2.Data Collection:**       
    **3.EDA:**        
    **4.Model Building:**        
