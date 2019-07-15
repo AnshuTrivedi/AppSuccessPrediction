@@ -16,7 +16,14 @@
    * Data Replacement (cutting, splitting, merging, ...)              
    * Weighting and Selection (attribute weighting, automatic optimization, ...)               
    * Attribute Generation (ID generation, ...)               
-   * Imputation (replacement of missing observations by using statistical algorithms)              
+   * Imputation (replacement of missing observations by using statistical algorithms)
+   Feature Engineering selects the right attributes to analyze. You use domain knowledge of the data to select or create attributes that      make machine learning algorithms work. Feature Engineering process includes:
+
+   * Brainstorming or testing of features   
+   * Feature selection   
+   * Validation of how the features work with your model   
+   * Improvement of features if needed   
+   * Return to brainstorming / creation of more features until the work is done   
    **2.Data Collection:**       
    **3.EDA:**        
    **4.Model Building:**        
